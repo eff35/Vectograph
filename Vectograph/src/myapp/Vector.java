@@ -11,7 +11,7 @@ public class Vector {
 			this.v[0] = x;
 			this.v[1] = y;
 			this.v[2] = z;
-			all.add(this);
+			
 	}
 	
 	Vector (String name,double x, double y, double z){
@@ -25,7 +25,7 @@ public class Vector {
 	Vector(){
 		for (int i =0;i<3;i++) {
 			this.v[i]=0;
-			all.add(this);
+			
 		}
 	}
 	@Override
