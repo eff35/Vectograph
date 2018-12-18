@@ -9,6 +9,7 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
+import resources.Vector;
 public class addWindow {
 	static String name;
 	static double xCor; 
