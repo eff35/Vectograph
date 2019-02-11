@@ -6,7 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
-import myapp.addWindow;
+import main.addWindow;
 
 public class Bottom {
 	static Button button;

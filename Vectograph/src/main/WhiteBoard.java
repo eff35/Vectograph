@@ -1,4 +1,4 @@
-package myapp;
+package main;
 import javafx.scene.Group;
 import javafx.scene.PerspectiveCamera;
 import javafx.scene.SceneAntialiasing;
